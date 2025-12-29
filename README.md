@@ -1,7 +1,5 @@
 # Infographics - Unemployment-In-Canada-2025
 
-# 📉 Unemployment in Canada — September 2025
-
 *An Infographics Visualization Overview*
 
 This Infographics presents a visual analysis of **Canada’s unemployment landscape as of September 2025**.
